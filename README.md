@@ -40,3 +40,14 @@ Install project dependencies with: npm i
 ##  Sample repo to generate an allure report as an artifact using GH Actions
 
 * https://github.com/SeyiOG/newCyLearn2/blob/main/.github/workflows/cypress-allure-report.yml
+
+
+
+
+
+
+
+for generating report use command:- npm run allure:execution-headless
+& use this commmmad to see the report:- allure serve
+
+
